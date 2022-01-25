@@ -1,5 +1,4 @@
 # hw-week2
-Intro Linux and Command Line
 # Intro Linux and Command Line
 ## What is Linux
 Linux is considered a Unix-like operating system which basically means that Linux derives heavy inspiration from Unix without actually conforming to be a full Unix operating system. macOS and FreeBSD would be two more examples of a Unix-like operating system. Again, Linux isn't directly Unix, it's just directly inspired by it, and incorporates a lot of ideas and interfaces into it. Linux was created because at that time there was not a single free open-source re-implementation of the Unix operating system (the BSD kernel was not yet available) so he wrote his own kernel which became known as the Linux kernel. 
